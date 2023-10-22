@@ -23,4 +23,4 @@ When drowsiness or yawning is detected, the code triggers an alarm message.
 <b>Text-to-speech tool:</b> <br>
 ~   espeak: for generating alarm messages.<br>
 
-Presentation link: [Canva Link](https://www.canva.com/design/DAFwrOxS9hA/lqkn5iiRdcjBt-hb6ReKOA/edit?tm_content=DAFwrOxS9hA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Presentation link: [Canva Link](https://www.canva.com/design/DAFx6hYVPfs/ozksJY3izREjgIBxSGSpDw/edit?utm_content=DAFx6hYVPfs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
